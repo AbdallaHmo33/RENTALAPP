@@ -1,5 +1,4 @@
-# Name: Abdullahi Mohamed Hassan
-# Id: C119181
+
 ![house rental](https://user-images.githubusercontent.com/74256348/216816362-c3506c30-adf0-499b-b69b-9e005d3b4b65.PNG)
 
 
